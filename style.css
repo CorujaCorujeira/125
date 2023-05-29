@@ -1,0 +1,25 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow:25px 25px 25px gray;
+}
+.note{
+    font-size: 15px;
+    color: #000000;
+}
+.copyRigthFooter{
+    position:fixed;
+    color:rgb(255, 255, 255);
+    bottom:0 ;
+    width:100%;
+    background-color:rgb(43, 43, 43);
+   line-height:3;
+   text-align: center; 
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 25px 25px 25px;
+}
